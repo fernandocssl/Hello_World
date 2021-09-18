@@ -1,4 +1,5 @@
-# Olá, Mundo!
- Primeiros algoritmos realizados durante a faculdade.
+# 👋 Hello, World!
+
+(EN) First algorithms written during college.
  
- First algorithms written during college.
+(PT-BR) Primeiros algoritmos realizados durante a faculdade.
